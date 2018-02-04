@@ -1,2 +1,2 @@
 # irasync-brand
-The design files for Irasync branding.
+> The design files for Irasync branding.
